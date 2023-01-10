@@ -1,0 +1,36 @@
+1	Dependiente	01
+2	Servicio domestico	02
+3	Independiente	03
+4	Madre comunitaria	04
+5	Aprendices del Sena en etapa lectiva	12
+6	Independiente agremiado o asociado	16
+7	Funcionarios públicos sin tope máximo de ibc	18
+8	Aprendices del SENA en etapa productiva	19
+9	Estudiantes (régimen especial ley 789 de 2002)	20
+10	Estudiantes de postgrado en salud	21
+11	Profesor de establecimiento particular	22
+12	Estudiantes aportes solo riesgos laborales	23
+13	Dependiente entidades o universidades públicas con régimen especial en salud	30
+14	Cooperados o pre cooperativas de trabajo asociado	31
+15	Cotizante miembro de la carrera diplomática o consular de un país extranjero o funcionario de organismo multilateral	32
+16	Beneficiario del fondo de solidaridad pensional	33
+17	Concejal municipal o distrital o edil de junta administrativa local que percibe honorarios amparado por póliza de salud	34
+18	Concejal municipal o distrital que percibe honorarios no amparado con póliza de salud	35
+19	Concejal municipal o distrital que percibe honorarios no amparado con póliza de salud beneficiario del fondo de solidaridad pensional.	36
+20	Beneficiario upc adicional	40
+21	Beneficiario sin ingresos con pago por tercero	41
+22	Cotizante pago solo salud articulo 2 ley 1250 de 2008 (independientes de bajos ingresos)	42
+23	Cotizante voluntario a pensiones con pago por tercero	43
+24	Cotizante dependiente de empleo de emergencia con duración mayor o igual a un mes	44
+25	Cotizante dependiente de empleo de emergencia con duración menor a un mes	45
+26	Trabajador dependiente de entidad beneficiaria del sistema general de participaciones - aportes patronales	47
+27	Trabajador de tiempo parcial	51
+28	Beneficiario del mecanismo de protección al cesante	52
+29	Afiliado participe	53
+30	Pre pensionado de entidad en liquidación.	54
+31	Afiliado participe - dependiente	55
+32	Pre pensionado con aporte voluntario a salud	56
+33	Independiente voluntario al sistema de riesgos laborales	57
+34	Estudiantes de prácticas laborales en el sector público	58
+35	Independiente con contrato de prestación de servicios superior a 1 mes	59
+36	Beneficiario programa de reincorporación	61
